@@ -1,0 +1,16 @@
+{
+  "name": "Default bundle",
+  "version": "0.1",
+  "dotfiles": [
+     {
+        "name": ".Xdefaults",
+        "saveAs": "~/.Xdefaults"
+     }, {
+        "name": ".config_i3_config",
+        "saveAs": "~/.config/i3/config"
+     }
+  ],
+  "install": "feh rxvt-unicode",
+  "uninstall": "",
+  "wallpaper": "unsplash.jpg"
+}
